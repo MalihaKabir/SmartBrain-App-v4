@@ -7,9 +7,7 @@ This is the fourth version of **SmartBrain App**. It is a face recognition app.
 1. *Clone this repo,*
 2. *Run npm install,*
 3. *Run npm start,*
-4. Do not forget to use your own PostgreSQL password.
-5. **You MUST get your own API key from [Clarifai](https://clarifai.com/) . You can follow the [guideline](https://clarifai.com/models/face-detection-image-recognition-model-a403429f2ddf4b49b307e318f00e528b-detection) as well.**
-6. *Also, clone and run **[SmartBrain-backend-API-v4](https://github.com/MalihaKabir/SmartBrain-Backend-API-v4)** to connect this app with its backend part.*
+4. *Also, clone and run **[SmartBrain-backend-API-v4](https://github.com/MalihaKabir/SmartBrain-Backend-API-v4)** to connect this app with its backend part.*
 
 
 ## Screenshots of this App:
