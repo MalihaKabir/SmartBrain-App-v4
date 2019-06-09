@@ -1,6 +1,6 @@
 # SmartBrain-App-v4
 
-This is the fourth version of **SmartBrain App**. It is a face recognition app.
+This **SmartBrain App** is a ‘Face Detection’ app that returns the image contains human face and coordinate locations of where the face appears with a bounding box. 
 
 ### To run this project:
 
