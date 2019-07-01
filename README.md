@@ -1,6 +1,6 @@
 # SmartBrain-App-v4
 
-This **[SmartBrain Ap](https://smart-brain-app-detect-face.herokuapp.com/)** is a ‘Face Detection’ app that returns the image contains human face and coordinate locations of where the face appears with a bounding box. After registration, a user can input the link of any human and this SmartBrain will detect the face. After every entry, SmartBrain will share the entry count either. 
+This **[SmartBrain App](https://smart-brain-app-detect-face.herokuapp.com/)** is a ‘Face Detection’ app that returns the image contains human face and coordinate locations of where the face appears with a bounding box. After registration, a user can input the link of any human and this SmartBrain will detect the face. After every entry, SmartBrain will share the entry count either. 
 
 ### To run this project:
 
